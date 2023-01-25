@@ -10,3 +10,6 @@
 
 #cube
 ![image](https://user-images.githubusercontent.com/123438408/214489768-fcda3d97-44c8-41dc-916c-b12d36c18272.png)
+
+#arthemtic operations
+![image](https://user-images.githubusercontent.com/123438408/214490711-9178469c-52d1-4972-b757-499247f6cf62.png)

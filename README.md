@@ -5,4 +5,5 @@
 #swapping
 ![image](https://user-images.githubusercontent.com/123438408/214488112-57626a3d-53ca-47fa-8de2-02558f3ca904.png)
 
-
+#natural numbers
+![image](https://user-images.githubusercontent.com/123438408/214488464-37d10e0b-eaee-4930-af75-ec354c2fae08.png)

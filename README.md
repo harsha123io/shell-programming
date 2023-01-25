@@ -32,3 +32,4 @@
 
 
 #palindrome
+![image](https://user-images.githubusercontent.com/123438408/214509748-b333b981-863e-40bb-8ec5-38a2e2fc87de.png)

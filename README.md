@@ -33,3 +33,7 @@
 
 #palindrome
 ![image](https://user-images.githubusercontent.com/123438408/214509748-b333b981-863e-40bb-8ec5-38a2e2fc87de.png)
+
+
+#marklist
+![image](https://user-images.githubusercontent.com/123438408/214524023-7ddef9cc-94ef-48ad-b8ec-5f4f2c8ad881.png)

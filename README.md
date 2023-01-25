@@ -7,3 +7,6 @@
 
 #natural numbers
 ![image](https://user-images.githubusercontent.com/123438408/214488464-37d10e0b-eaee-4930-af75-ec354c2fae08.png)
+
+#cube
+![image](https://user-images.githubusercontent.com/123438408/214489768-fcda3d97-44c8-41dc-916c-b12d36c18272.png)

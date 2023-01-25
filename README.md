@@ -16,3 +16,6 @@
 
 #factorial
 ![image](https://user-images.githubusercontent.com/123438408/214491092-b07c4755-7840-4d2e-9fb6-e86715716d8a.png)
+
+#Greatest of the three numbers
+![image](https://user-images.githubusercontent.com/123438408/214491498-543aec97-162a-4901-b584-997df98aa349.png)

@@ -1,4 +1,3 @@
 # shell-programming
-![image](https://user-images.githubusercontent.com/123438408/214475818-2f5e119d-1b47-4b5a-9b35-b0121c5ea8d8.png)
-
+![image](https://user-images.githubusercontent.com/123438408/214487789-a4a223b0-c495-4e98-b2d1-b0e3d9938eb3.png)
 

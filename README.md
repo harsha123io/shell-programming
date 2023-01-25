@@ -13,3 +13,6 @@
 
 #arthemtic operations
 ![image](https://user-images.githubusercontent.com/123438408/214490711-9178469c-52d1-4972-b757-499247f6cf62.png)
+
+#factorial
+![image](https://user-images.githubusercontent.com/123438408/214491092-b07c4755-7840-4d2e-9fb6-e86715716d8a.png)

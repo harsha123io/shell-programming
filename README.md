@@ -38,5 +38,8 @@
 #marklist
 ![image](https://user-images.githubusercontent.com/123438408/214524023-7ddef9cc-94ef-48ad-b8ec-5f4f2c8ad881.png)
 
+
 #genration of numbers
 ![image](https://user-images.githubusercontent.com/123438408/215380298-5555a894-f729-4100-8867-8939d079f5a2.png)
+
+#genration of even numbers

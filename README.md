@@ -46,3 +46,6 @@
 
 #genration of odd numbers
 ![image](https://user-images.githubusercontent.com/123438408/215383649-087533ee-a126-4f08-b0ab-73f2f7b524ef.png)
+
+
+#fibrannc
